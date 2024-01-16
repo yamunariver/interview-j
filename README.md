@@ -7,7 +7,7 @@ I am pursuing a new opportunity that aligns with my career goals, offers profess
 
 ### why should i select you
 
-Selecting me brings a combination of proven skills, a track record of achievements, and a passion for [industry/company], ensuring immediate value and long-term dedication to your team's success.
+Selecting me brings a combination of proven skills, a track record of achievements, and a passion for technology, ensuring immediate value and long-term dedication to your team's success.
 —
 ✅Polite and Engaging
 
