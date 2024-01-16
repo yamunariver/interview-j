@@ -116,6 +116,22 @@ Show self-awareness and a willingness to learn and grow.
 Discuss the steps you've taken to address or mitigate your weakness.
 Example: "I used to struggle with delegating tasks because I wanted to ensure everything met my high standards. However, I've been working on this by actively seeking opportunities to delegate and trusting my team members' abilities. This has not only improved my delegation skills but also empowered my team to take ownership of their responsibilities."
 
+### what is your strength
+
+My strength lies in swiftly acquiring new conecepts and collaborating seamlessly within a team
+
+### what is your weakness 
+
+I tend to channel my focus on a singular task at a time, ensuring thorough concentration
+
+### why should we hire you:
+
+your decision to hire me would provide on excellent platform for showcasing my skills. I am committed to achieving set goals promply
+
+where do you see youself in 5 years:
+
+I envision myself occupying senior role, overseeing critical projects within
+--
 ---
 Interview Question: What can you do for us that other candidates can't?
 
