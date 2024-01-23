@@ -146,6 +146,19 @@ I envision myself occupying senior role, overseeing critical projects within
 Interview Question: What can you do for us that other candidates can't?
 ---
 
+## How do you prioritise tasks when faced with multiple deadlines:
+
+1) I prioritize tasks based on deadlines, focusing on the most urgent first to ensure nothing is delayed:
+   
+2) I always categorize tasks into urgent and important to tackle high-priority projects:
+
+3) I communicate with my team to understand project dependencies and adjust priorities accourdingly:
+        
+4) I break down comlex projects into smaller, and manageable tasks, addressing the most time-sensitive onces initially:
+  
+5) I regularly update my to-do list, reassessing priorities as deadlines approach to stay on track
+   
+
 ## why have you chaned jobs so frequently:
 
 1) I change jobs frequent cleaned mycareer to explore different industries and roles but But i Have now identified my passion and seeing a long term commuitment in this field with your organization:
