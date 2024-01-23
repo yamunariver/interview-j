@@ -144,4 +144,12 @@ I envision myself occupying senior role, overseeing critical projects within
 --
 ---
 Interview Question: What can you do for us that other candidates can't?
+---
+
+## why have you chaned jobs so frequently:
+
+1) I change jobs frequent cleaned mycareer to explore different industries and roles but But i Have now identified my passion and seeing a long term commuitment in this field with your organization:
+
+2) I faced organization restructuring and layoffs at my previous companiew, leading to involuntary job change, I am now looking for a stable work enviroment to contribute my skills
+
 
