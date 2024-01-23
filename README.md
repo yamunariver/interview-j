@@ -5,6 +5,10 @@
 ### Job change
 I am pursuing a new opportunity that aligns with my career goals, offers professional growth, and provides a better fit for my skills and values.
 
+## if don't no answer
+
+Ma'am I am glad that you brought this up. I'm very keen to learn everything about SQL and C+ and for this I am also pursuing a certification course. However, I am still at the stage of learning. I can assure you that once you decide to take me on board, under proper training and guidance I will be able to learn quickly
+
 ### why should i select you
 
 Selecting me brings a combination of proven skills, a track record of achievements, and a passion for technology, ensuring immediate value and long-term dedication to your team's success.
