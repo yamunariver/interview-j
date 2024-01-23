@@ -62,6 +62,11 @@ I believe that my passion for the position, combined with my educational backgro
 When faced with a challenging situation, I like to take a step back and analyze the issue from different angles. After assessing the situation, I develop a plan of action that outlines short-term as well as long-term solutions.
 
 —
+## How do you define SUCCESS:
+
+1) Success to me is accomplishing goals that are meaningfull to me I measure success by the impact i create through my work and the  progress I made towards my persional and professional goals:
+
+2) Success to me is achieving a goal that I have set for myself it can be an simple as completing a task or a big life milestone it is about reflecting on the journey and feeling proud of what i have accomplished
 
 1️⃣ Mention a salary range
 If the question of expected CTC comes up, indicate a range that you are comfortable with, based on your previous research on salaries and your current salary.
