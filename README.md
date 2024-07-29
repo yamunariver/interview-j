@@ -203,3 +203,9 @@ While I don’t have much experience in X skill, I do have proper knowledge of Y
 10. Where do you see yourself in five years?
 
 NOTE: Interviewers don’t even expect you to answer every question perfectly. However, simply saying ‘I don’t know’ could leave a bad impression. These responses will help you to tackle tricky interview questions!
+
+# Linkedin
+
+Come prepared with 3-5 thoughtful questions.
+Ask questions that show you’re engaged, intelligent and interested.
+Avoid no-brainer questions or ones related to salary / benefits.
