@@ -227,3 +227,9 @@ Let them know how well things turned out, how the problems were solved and what 
 1. Come prepared with 3-5 thoughtful questions.
 2. Ask questions that show you’re engaged, intelligent and interested.
 3. Avoid no-brainer questions or ones related to salary / benefits.
+
+1. Be clear about the project goal.
+2. Establish that you’re a strong person who doesn’t get flustered easily.
+3. Show your ingenious side, too, especially if your path to success involved redefining the task or enlisting colleagues.
+
+5. 
