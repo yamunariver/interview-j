@@ -168,3 +168,23 @@ Interview Question: What can you do for us that other candidates can't?
 2) I faced organization restructuring and layoffs at my previous companiew, leading to involuntary job change, I am now looking for a stable work enviroment to contribute my skills
 
 
+# don't know answer
+
+
+
+✅ Option 1 (Shows that you are motivated)
+Thank you for asking this question. However, I am not very well acquainted with this subject. But, I can assure you I will definitely do some research around this.
+
+✅ Option 2 (Shows that you are a fast-learner)
+Right now I won’t be able to provide you with an exact answer. But I can assure you that I am a fast learner and will learn very quickly under your mentorship.
+
+✅ Option 3 (Best for technical questions)
+I can’t think of an exact answer. I would request you to allow me some time and we can come back on this later.
+
+✅ Option 4 (If you don’t understand the question)
+I did not understand the question properly. Could you please simplify and rephrase it? I don’t want to misinterpret it.
+
+✅ Option 5 (Redirect the conversation to the topic you are confident about)
+While I don’t have much experience in X skill, I do have proper knowledge of Y. If the job requires me to learn X skill I will be excited to expand my knowledge.
+
+NOTE: Interviewers don’t even expect you to answer every question perfectly. However, simply saying ‘I don’t know’ could leave a bad impression. These responses will help you to tackle tricky interview questions!
