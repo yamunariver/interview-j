@@ -232,4 +232,6 @@ Let them know how well things turned out, how the problems were solved and what 
 2. Establish that you’re a strong person who doesn’t get flustered easily.
 3. Show your ingenious side, too, especially if your path to success involved redefining the task or enlisting colleagues.
 
-5. 
+5. Use an honest example that’s believable.
+6. Explain why it was a mistake.
+7. Talk about what you’ve learned and any steps you’ve taken to show that you’re “working on it”.
