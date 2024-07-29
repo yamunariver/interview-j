@@ -204,6 +204,24 @@ While I don’t have much experience in X skill, I do have proper knowledge of Y
 
 NOTE: Interviewers don’t even expect you to answer every question perfectly. However, simply saying ‘I don’t know’ could leave a bad impression. These responses will help you to tackle tricky interview questions!
 
+
+# Linkedin 
+
+### Tell me about a time you had to learn something quickly.
+
+#### Describe the situation.
+
+Talk about the initial events that occurred. What were the problems that you were experiencing? `What needed to be solved and what resources did you have--or not have?` This is a really key part of the story, so it should be about three to four sentences long.
+ 
+#### Get into the action.
+
+Speak about the key milestones that you went through. Tell them what you did to turn the `situation around`. `Don't go into too much detail though`. `It should only be about two to three sentences`, and try to use active verbs, things like `“I implemented” or “I persuaded”.`
+ 
+#### Show the results.
+
+Let them know how well things turned out, how the problems were solved and what you may have learned along the way. Try to include a clincher at the end, like dollars saved or improved profitability. It drives home that you did a great thing.
+
+
 # Tips
 
 1. Come prepared with 3-5 thoughtful questions.
