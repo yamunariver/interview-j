@@ -206,6 +206,6 @@ NOTE: Interviewers don’t even expect you to answer every question perfectly. H
 
 # Tips
 
-`Come prepared with 3-5 thoughtful questions.`
-`Ask questions that show you’re engaged, intelligent and interested.`
-`Avoid no-brainer questions or ones related to salary / benefits.`
+1. Come prepared with 3-5 thoughtful questions.
+2. Ask questions that show you’re engaged, intelligent and interested.
+3. Avoid no-brainer questions or ones related to salary / benefits.
