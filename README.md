@@ -187,4 +187,19 @@ I did not understand the question properly. Could you please simplify and rephra
 ✅ Option 5 (Redirect the conversation to the topic you are confident about)
 While I don’t have much experience in X skill, I do have proper knowledge of Y. If the job requires me to learn X skill I will be excited to expand my knowledge.
 
+
+
+# Here are 10 interview questions commonly asked in Big 4 companies (Deloitte, PwC, EY, KPMG)
+
+1. Tell me about yourself.
+2. Why do you want to work for our company?
+3. Describe a challenging project you worked on and how you handled it.
+4. How do you handle tight deadlines and pressure?
+5. Can you provide an example of how you added value to a client or project?
+6. What are your strengths and weaknesses?
+7. How do you stay updated with industry trends and changes?
+8. Describe a time you had to work with a difficult team member and how you handled it.
+9. Why should we hire you?
+10. Where do you see yourself in five years?
+
 NOTE: Interviewers don’t even expect you to answer every question perfectly. However, simply saying ‘I don’t know’ could leave a bad impression. These responses will help you to tackle tricky interview questions!
