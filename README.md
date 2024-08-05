@@ -235,3 +235,7 @@ Let them know how well things turned out, how the problems were solved and what 
 5. Use an honest example that’s believable.
 6. Explain why it was a mistake.
 7. Talk about what you’ve learned and any steps you’ve taken to show that you’re “working on it”.
+
+# Youtube 
+
+good morning, Thank you for considering me for this role I'm kumar a Tech support engineer from `company name` hyderabad telangana my speciality is ` `
